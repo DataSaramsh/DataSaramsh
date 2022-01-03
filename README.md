@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Bigdata,Saprk,Hadoop.**
+- 🌱 I’m currently learning **Bigdata,Spark,Hadoop, Python for analysis**
 
-- 💬 Ask me about **Hadoop or any tech realted stuff.** 
+- 💬 What am I doing? **Currently I am busy playing with data. ** 
 
 - 📫 How to reach me **saramshkhadka57@gmail.com**
 
-- ⚡ Fun fact **One thing I cannot live without is Tiktok.**
+- ⚡ Fun fact **One thing I cannot live without is Data.**
 
 ## 🚀 Languages and Tools:
 
