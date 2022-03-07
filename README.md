@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Bigdata,Spark,Hadoop, Python for analysis**
+- 🌱 I’m currently learning **Data Science, Bigdata,Spark,Hadoop, Python for analysis**
 
 - 💬 What am I doing? **Currently I am busy playing with data. ** 
 
